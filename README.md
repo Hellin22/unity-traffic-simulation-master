@@ -69,4 +69,35 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
------------------------------ 기존 프로젝트에서 차량 수에 따른 신호등 알고리즘 변환 과정 추가 ----------------------------------
+----------------------------- 기존 프로젝트에서 차량 수에 따른 신호등 알고리즘 변환 과정 추가 -----------------------------
+
+1분간 알고리즘 미적용한 경우 통과 차량수(46, 49)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/9e67b66e-9467-4a46-a679-96b98a49e95b)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/e3fba6b5-ed08-4380-94bb-8d0ca25dacd0)
+
+1분간 알고리즘 적용한 경우 통과 차량수(48, 59)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/2532d309-1db4-4771-9625-1c2d4d59d549)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/d7732626-dd71-4bc5-810b-f02216201c60)
+
+
+
+2분간 알고리즘 미적용한 경우 통과 차량수(88, 91, 101)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/722a4140-d27d-451d-a2bb-5f1d6003f429)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/0ef7e9a5-3b22-4466-bb84-e9babad0d19f)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/ee7473c5-bbcb-4515-913b-30dea910f4e4)
+
+2분간 알고리즘 적용한 경우 통과 차량수(101, 111, 114)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/24cecb47-35e2-4517-97c2-ec84a96672a9)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/3b283567-91f6-45e1-a1fe-0bd6eb88c8c4)
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/2b85c073-dc5a-49b6-8d46-004ba79bb431)
+
+
+
+
+
+
+
+
+Demo 동영상 youtube 링크 : https://youtu.be/pyV5lJHHgT4
+
+
