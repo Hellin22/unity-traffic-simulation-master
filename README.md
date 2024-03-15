@@ -83,6 +83,8 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
+
+
 2분간 알고리즘 미적용한 경우 통과 차량수(88, 91, 101)
 
 ![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/722a4140-d27d-451d-a2bb-5f1d6003f429)
@@ -98,9 +100,23 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
+3분간 알고리즘 미적용한 경우 통과 차량수(141)
+
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/fe6a462c-67b9-4be7-b93c-19ba8d58316d)
+
+3분간 알고리즘 적용한 경우 통과 차량수(175)
+
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/24153845-45db-45d9-96b8-f17dc4daf1e1)
 
 
 
+종합 표
+
+![image](https://github.com/Hellin22/unity-traffic-simulation-master/assets/95176614/7d9c1088-bb57-4732-b2ea-f7fca383977b)
+
+
+
+평균적으로 알고리즘을 적용한 모델에서 교차로를 통과한 차량 대수가 약 17.6% 향상된 모습. 중요한 것은, 1분 2분 3분으로 갈수록 점점 더 통과한 차량의 수의 차이가 커지는 모습. 유의미한 차이가 있는것을 확인할 수 있음.
 
 Demo 동영상 youtube 링크 : https://youtu.be/pyV5lJHHgT4
 
