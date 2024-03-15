@@ -69,12 +69,13 @@ THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLI
 
 
 
-#기존 프로젝트에서 차량 수에 따른 신호등 알고리즘 변환 과정 추가
 
-## GetGroupVehicleCount(), IsVehicleInGroup(), Start(), SwitchLights(), SwitchLightsCoroutine(), MoveVehiclesQueue()
-OnTriggerEnter(), OnTriggerExit(), TriggerLight(), ExitLight() 함수 추가 및 수정
 
-## 신호등마다 텍스트를 추가하여 차량이 교차로를 통과한 횟수를 시각적으로 보여줌. 이 경우 ExitLight 함수를 통해 차량이 교차로에서 벗어난 순간 Count 를 늘려 UI Text 를 업데이트.
+# 기존 프로젝트에서 차량 수에 따른 신호등 알고리즘 변환 과정 추가
+
+GetGroupVehicleCount(), IsVehicleInGroup(), Start(), SwitchLights(), SwitchLightsCoroutine(), MoveVehiclesQueue(), OnTriggerEnter(), OnTriggerExit(), TriggerLight(), ExitLight() 함수 추가 및 수정
+
++ 신호등마다 텍스트를 추가하여 차량이 교차로를 통과한 횟수를 시각적으로 보여줌. 이 경우 ExitLight 함수를 통해 차량이 교차로에서 벗어난 순간 Count 를 늘려 UI Text 를 업데이트.
 
 
 ## 1분간 알고리즘 미적용한 경우 통과 차량수(46, 49)
